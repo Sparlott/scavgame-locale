@@ -1,5 +1,5 @@
 # Scavenge Game Locale
-Localization files for the "Scavenge Game" by Orsoniks.
+Ukranian localization file for the "Scavenge Game" by Orsoniks.
 
 # Authors
 | File                       | Contributors                                                                                                        |
